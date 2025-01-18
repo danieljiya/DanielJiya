@@ -8,7 +8,7 @@ If you’re looking for someone who combines analytical expertise with a people-
 
 **Projects**
 
-Graduated my Business Intelligence Analyst bootcamp with TripleTen 2024, included applied Projects
+Graduated my Business Intelligence Analyst Bootcamp with TripleTen 2024, which included applied Projects
 
 **Skills & Expertise**
 
