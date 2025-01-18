@@ -1,4 +1,4 @@
-**Hi there 👋 I'm Daniel Jiya www.linkedin.com/in/daniel-jiya-o**
+**Hi there 👋 I'm Daniel Jiya [LinkedIn](https://www.linkedin.com/in/daniel-jiya-o)**
 
 I’m a Business Intelligence Analyst with a rich and diverse background spanning supply chain management, quality control, manufacturing, clinical research, and healthcare. This unique blend of experiences has shaped my ability to adapt quickly, think critically, and tackle complex challenges—especially in fast-paced, high-pressure environments.
 
