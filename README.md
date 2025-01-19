@@ -1,7 +1,7 @@
 **Hi there 👋 I'm Daniel Jiya [LinkedIn](https://www.linkedin.com/in/daniel-jiya-o)**
 
 I’m a Business Intelligence Analyst with a rich and diverse background spanning supply chain management, quality control, manufacturing, clinical research, and healthcare. This unique blend of experiences has shaped my ability to adapt quickly, think critically, and tackle complex challenges—especially in fast-paced, high-pressure environments.
-What drives me most is the power of data. I’m passionate about uncovering actionable insights and using them to improve outcomes, whether streamlining processes, enhancing decision-making, or driving meaningful change. Collaboration and clear communication are at the heart of my work because I believe great ideas flourish when people work together toward a common goal.
+What drives me most is the power of data. I’m passionate about uncovering actionable insights and using them to improve outcomes, whether streamlining processes, enhancing decision-making, or driving meaningful change. Collaboration and clear communication are at the heart of my work because I believe great ideas flourish when people work together toward a common goal. I’d love to bring this passion to your team and make a lasting impact.
 
 **Projects**
 
@@ -27,7 +27,7 @@ Graduated my Business Intelligence Analyst Bootcamp with TripleTen 2024, which i
 
 **KPI Development:** Defining and tracking key performance indicators for various business goals.
 
-**Storytelling with Data**Communicating findings to stakeholders using clear narratives and visuals.
+**Storytelling with Data:** Communicating findings to stakeholders using clear narratives and visuals.
 
 **Domain Knowledge:** Exposure to common business challenges across the supply chain, healthcare, and e-commerce industries.
 
